@@ -62,6 +62,10 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+            .color-white{
+                text-color:white:
+            }
         </style>
     </head>
     <body>
@@ -79,20 +83,20 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    TIMESTEMPS
+                    TIMESPENT
                 </div>
 
                 <!-- <div class="links"> -->
                   <div class="row">
-                    <div class="btn btn-success col-sm-6" ><a href="https://laravel.com/docs"></a>ARRIVEE</div>
-                    <div class="btn btn-primary col-sm-6" ><a href="https://laravel.com/docs"></a>DEPART</div>
+                    <div class="btn btn-success col-sm-6" ><a class="color-white" href="https://laravel.com/docs">ARRIVEE</a></div>
+                    <div class="btn btn-primary col-sm-6" ><a class="color-white" href="https://laravel.com/docs">DEPART</a></div>
                   </div>
                   <div class="row">
-                    <div class="btn btn-success col-sm-6" style="margin-top:10px"><a href="https://laravel.com/docs"></a>PAUSE</div>
-                    <div class="btn btn-primary col-sm-6" style="margin-top:10px"><a href="https://laravel.com/docs"></a>FIN</div>
+                    <div class="btn btn-success col-sm-6" style="margin-top:10px"><a class="color-white" href="https://laravel.com/docs">PAUSE</a></div>
+                    <div class="btn btn-primary col-sm-6" style="margin-top:10px"><a href="https://laravel.com/docs">FIN</a></div>
                   </div>
                   <div class="row">
-                    <div class="btn btn-warning col-sm-12" style="margin-top:10px"><a href="https://laravel.com/docs"></a>INFOS</div>
+                    <div class="btn btn-warning col-sm-12" style="margin-top:10px"><a href="https://laravel.com/docs">INFOS</a></div>
                   </div>
                 </div>
             <!-- </div> -->
