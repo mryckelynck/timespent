@@ -85,7 +85,7 @@
                 <!-- <div class="links"> -->
                   <div class="row">
                     <div class="btn btn-success col-sm-6" ><a href="https://laravel.com/docs"></a>ARRIVEE</div>
-                    <div class="btn btn-primary col-sm-6" style="margin-top:10px"><a href="https://laravel.com/docs"></a>DEPART</div>
+                    <div class="btn btn-primary col-sm-6" ><a href="https://laravel.com/docs"></a>DEPART</div>
                   </div>
                   <div class="row">
                     <div class="btn btn-success col-sm-6" style="margin-top:10px"><a href="https://laravel.com/docs"></a>PAUSE</div>
